@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594396996480",
+    "project_id": "ak-chat-2fc4d",
+    "storage_bucket": "ak-chat-2fc4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594396996480:android:3c506cc2cc0fa2663c5765",
+        "android_client_info": {
+          "package_name": "com.example.akchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIgDCaNPdu103Luvt0EvQYWXWLxnRoVZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
